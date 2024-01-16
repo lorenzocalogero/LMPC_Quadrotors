@@ -18,5 +18,4 @@ For running the code, it is required to install the third-party toolbox "YALMIP"
 
 The code is based on the following work:
 
-* L. Calogero, M. Mammarella, and F. Dabbene, "Learning Model Predictive Control for Quadrotors Minimum-Time Flight in Autonomous Racing Scenarios," _IFAC-PapersOnLine_, vol. 56, no. 2, pp. 1063–1068,
-2023 [[PDF](https://www.sciencedirect.com/science/article/pii/S2405896323021146)]
+* L. Calogero, M. Mammarella, and F. Dabbene, "Learning Model Predictive Control for Quadrotors Minimum-Time Flight in Autonomous Racing Scenarios," _IFAC-PapersOnLine_, vol. 56, no. 2, pp. 1063–1068, 2023 [[PDF](https://www.researchgate.net/publication/375850281)]
